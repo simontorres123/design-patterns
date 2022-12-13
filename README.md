@@ -1,6 +1,6 @@
 ## design-patterns
 
-repository created in order to learn and practice about design patterns and good practices, the mains purpose is split them in every category, create files needed to implement an specific design pattern and create a test to validate the correct behavioring.
+repository created in order to learn and practice about design patterns and good practices, the main purpose is split them in every category, create files needed to implement an specific design pattern and create a test to validate the correct behavioring.
 
 ### Doc
 
