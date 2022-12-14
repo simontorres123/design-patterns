@@ -18,7 +18,7 @@ public class SingletonTest {
 * 
 */ 
 @Test
-public void when_getMultipleInstances_return_theSameInstance() throws Exception {
+public void when_getMultipleInstances_return_sameInstance() throws Exception {
        Singleton instance1 = Singleton.getInstance();
        Singleton instance2 = Singleton.getInstance();
        Assertions.assertEquals(instance1,instance2);
